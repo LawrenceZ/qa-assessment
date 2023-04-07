@@ -1,0 +1,15 @@
+{
+  "name": "qa-assessment",
+  "version": "1.0.0",
+  "description": "qa assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha 'src/test/**/*test.js'"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
