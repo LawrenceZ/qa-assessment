@@ -1,5 +1,4 @@
-const assert = require("assert");
-const { expect } = require("chai");
+import { expect } from "chai";
 
 const firstNums = [0, 2, 3]; // returns 1
 const secondNums = [0, 1];
